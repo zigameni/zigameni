@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zigameni
 - 👀 I’m interested in AI, VR, AR, and all the nice stuff. 
-- 🌱 I’m currently learning Game Development
+- 🌱 I’m currently working a Game Engine. 
 
 
 <!---
