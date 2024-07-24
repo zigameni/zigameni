@@ -15,9 +15,6 @@
 ![](https://img.shields.io/badge/Stack-MEAN-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Spring_Boot-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=zigameni&show_icons=true&theme=radical)
-
 <!---
 zigameni/zigameni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
