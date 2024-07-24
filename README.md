@@ -1,5 +1,4 @@
 # Hi there, I'm Zigameni 👋
-
 - 👀 Welcome to my playground. Hope you find what you are looking for. 
 
 ## 💼 Skills
@@ -14,7 +13,7 @@
 ![](https://img.shields.io/badge/Stack-MERN-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Stack-MEAN-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Spring_Boot-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
-
+![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
 <!---
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=zigameni&show_icons=true&theme=radical)
