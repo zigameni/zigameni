@@ -19,8 +19,9 @@
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=zigameni&show_icons=true&theme=radical)
 --->
+
 ## 📈 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zigameni&hide=html,css&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zigameni&layout=compact&theme=radical)
 
 <!---
 zigameni/zigameni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
