@@ -1,7 +1,6 @@
 # Hi there, I'm Zigameni 👋
 
-## About Me
-[Brief introduction about yourself and your interests]
+- 👀 Welcome to my playground. Hope you find what you are looking for. 
 
 ## 💼 Skills
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
@@ -18,9 +17,6 @@
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=zigameni&show_icons=true&theme=radical)
-
-## 📈 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zigameni&layout=compact&theme=radical)
 
 <!---
 zigameni/zigameni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
