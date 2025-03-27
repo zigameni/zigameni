@@ -1,5 +1,5 @@
 # Hi there, I'm Zigameni 👋
-- 👀 Welcome to my playground. Hope you find what you are looking for. 
+- 👀 Welcome to my playground.  
 
 ## 💼 Skills
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
